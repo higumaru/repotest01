@@ -1,11 +1,11 @@
-‚³‚ç‚ÉAƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚É”½‰f‚³‚¹‚é‘O‚ÉAƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚Ìî•ñ‚ð’Ç‰Á‚µ‚Ü‚·B‚±‚Ìî•ñ‚ÍAæ‚Ù‚ÇGitHubã‚É•\Ž¦‚³‚ê‚½AƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÌƒAƒhƒŒƒX‚Å‚·B¡‰ñ‚Í—á‚ðŽ¦‚µ‚Ü‚·B
+ã•ã‚‰ã«ã€ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«åæ˜ ã•ã›ã‚‹å‰ã«ã€ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã®æƒ…å ±ã‚’è¿½åŠ ã—ã¾ã™ã€‚ã“ã®æƒ…å ±ã¯ã€å…ˆã»ã©GitHubä¸Šã«è¡¨ç¤ºã•ã‚ŒãŸã€ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã§ã™ã€‚ä»Šå›žã¯ä¾‹ã‚’ç¤ºã—ã¾ã™ã€‚
 
 git remote add origin https://github.com//awesome.git
- 
+ sssss
 
-ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ðƒvƒbƒVƒ…‚µ‚ÄƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚Ö”½‰f‚³‚¹‚éigit pushj
-ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚Ì•ÏX‚ðAGitHubã‚É‚ ‚éƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚É”½‰f‚³‚¹‚é‚½‚ßAˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ü‚·B
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã‚’ãƒ—ãƒƒã‚·ãƒ¥ã—ã¦ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã¸åæ˜ ã•ã›ã‚‹ï¼ˆgit pushï¼‰
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã®å¤‰æ›´ã‚’ã€GitHubä¸Šã«ã‚ã‚‹ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«åæ˜ ã•ã›ã‚‹ãŸã‚ã€ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¾ã™ã€‚
 
 git push origin master
-GitHub‚Ìƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðq‚Ë‚ç‚ê‚Ü‚·‚Ì‚Å“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B
-‚±‚ê‚ÅAGitHub‚ÖƒvƒbƒVƒ…‚µ‚ÄƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚Ö”½‰f‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B
+GitHubã®ãƒ¦ãƒ¼ã‚¶åã¨ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å°‹ã­ã‚‰ã‚Œã¾ã™ã®ã§å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
+ã“ã‚Œã§ã€GitHubã¸ãƒ—ãƒƒã‚·ãƒ¥ã—ã¦ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã¸åæ˜ ã•ã›ã‚‹ã“ã¨ãŒã§ãã¾ã—ãŸã€‚
