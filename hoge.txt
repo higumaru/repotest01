@@ -1,3 +1,5 @@
+i
+a
 さらに、リモートリポジトリに反映させる前に、リモートリポジトリの情報を追加します。この情報は、先ほどGitHub上に表示された、リモートリポジトリのアドレスです。今回は例を示します。
 
 git remote add origin https://github.com//awesome.git
